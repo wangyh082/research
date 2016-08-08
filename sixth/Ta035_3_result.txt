@@ -1,0 +1,9 @@
+f=1:5 16 2 20 12 
+f=2:9 15 13 11 3 1 18 7 
+f=3:17 6 4 19 8 14 10 
+the last factory=1 the first position=6 the last positon =1
+cmax1=766 cmin1=625
+f=1:5 16 2 20 12 
+f=2:9 15 13 11 3 1 18 7 
+f=3:17 6 4 19 8 14 10 
+the process time is=598
