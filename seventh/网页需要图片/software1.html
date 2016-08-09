@@ -1,0 +1,161 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Artificial Bee Colony (ABC) Algorithm Homepage
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">td img {display: block;}</style>
+<!--Fireworks 8 Dreamweaver 8 target.  Created Fri Oct 20 10:20:55 GMT+0300 (GTB Daylight Time) 2006-->
+<meta name="keywords" content="Artificial, Bee, Colony, ABC, Optimization Algorithm" /><link rel="stylesheet" type="text/css" href="abc.css" /></head>
+
+
+<body bgcolor="#ffffff">
+<div align="center">
+<table border="1" cellpadding="0" cellspacing="0" width="770" bordercolor="#366B1D">
+<tr>
+<td width="770">
+<table border="0" cellpadding="0" cellspacing="0" width="770">
+<!-- fwtable fwsrc="layout.png" fwbase="index.jpg" fwstyle="Dreamweaver" fwdocid = "1830990813" fwnested="0" -->
+  <tr>
+   <td width="141"><img src="images/spacer.gif" width="141" height="1" border="0" alt="" /></td>
+   <td width="141"><img src="images/spacer.gif" width="141" height="1" border="0" alt="" /></td>
+   <td width="141"><img src="images/spacer.gif" width="141" height="1" border="0" alt="" /></td>
+   <td width="141"><img src="images/spacer.gif" width="141" height="1" border="0" alt="" /></td>
+   <td width="141"><img src="images/spacer.gif" width="141" height="1" border="0" alt="" /></td>
+   <td width="55"><img src="images/spacer.gif" width="55" height="1" border="0" alt="" /></td>
+   <td width="4"><img src="images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+  </tr>
+
+  <tr>
+   <td colspan="6"><img name="index_r1_c1" src="1.jpg" width="784" height="103" border="0" id="index_r1_c1" alt="" /></td>
+   <td width="4"><img src="images/spacer.gif" width="1" height="103" border="0" alt="" /></td>
+  </tr>
+  <tr>
+   <td colspan="6"><img name="index_r2_c1" src="images/index_r2_c1.jpg" width="760" height="2" border="0" id="index_r2_c1" alt="" /></td>
+   <td width="4"><img src="images/spacer.gif" width="1" height="2" border="0" alt="" /></td>
+  </tr>
+  <tr>
+   <td colspan="6" background="index_r3_c1.jpg">
+	<div align="center">
+		<table border="0" cellpadding="0" cellspacing="0" width="100%" id="table1">
+			<tr>
+				<td width="129" style="text-align: center"><font color="#FFCF0D">
+				<a href="AMO.html">
+				<font size="3"><font color="#FFCF0D">AMO</font></font></a></font></td>
+				<td style="text-align: center" width="11">&nbsp;</td>
+				<td style="text-align: center" width="206">
+				<font color="#FFCF0D"><a href="publication.htm"><font size="3">
+				<font color="#FFCF0D">P</font></font><font color="#FFCF0D">UBLICATIONS</font></a></font></td>
+				<td style="text-align: center" width="10">&nbsp;</td>
+				<td style="text-align: center" width="131">
+				<font color="#FFCF0D"><a href="people.html"><font size="3">
+				<font color="#FFCF0D">P</font></font><font color="#FFCF0D">EOPLE</font></a></font></td>
+				<td style="text-align: center" width="155">
+				<font color="#FFCF0D"><a href="software1.html">
+				<font color="#FFCF0D" size="3">S</font><font color="#FFCF0D">OFTWARE</font></a></font></td>
+				<td width="118" style="text-align: center"><font color="#FFCF0D">
+				<a href="http://cs.nenu.edu.cn">
+				<font size="3"><font color="#FFCF0D">L</font></font><font color="#FFCF0D">INKS</font></a></font></td>
+			</tr>
+		</table>
+	</div>
+	</td>
+   <td width="4"><img src="images/spacer.gif" width="1" height="23" border="0" alt="" /></td>
+  </tr>
+  <tr>
+   <td colspan="6"><img name="index_r4_c1" src="images/index_r4_c1.jpg" width="760" height="2" border="0" id="index_r4_c1" alt="" /></td>
+   <td width="4"><img src="images/spacer.gif" width="1" height="2" border="0" alt="" /></td>
+  </tr>
+  <tr>
+   <td colspan="6"><img name="index_r5_c1" src="index_r5_c1.jpg" width="784" height="11" border="0" id="index_r5_c1" alt="" /></td>
+   <td width="4"><img src="images/spacer.gif" width="1" height="11" border="0" alt="" /></td>
+  </tr>
+  <tr>
+   <td colspan="6"><img name="index_r6_c1" src="images/index_r6_c1.jpg" width="760" height="2" border="0" id="index_r6_c1" alt="" /></td>
+   <td width="4"><img src="images/spacer.gif" width="1" height="2" border="0" alt="" /></td>
+  </tr>
+  <tr>
+   <td colspan="6" background="index_r7_c1.jpg" valign="top">
+	<table border="0" cellpadding="0" cellspacing="0" width="97%" id="table2">
+		<tr>
+			<td width="22" rowspan="2">&nbsp;</td>
+			<td>
+			<p style="text-align:left"><br>
+			    <font size="5" color="#366B1D">&nbsp;</font><br><p style="text-align:left">
+		    <form action="http://link.springer.com/article/10.1007%2Fs00521-013-1433-8" id="form1">
+    <div class="aspNetHidden"></div>
+    <div>
+    <p style="text-align:left">    Name Surname:<br />
+        <input name="TextBox1" type="text" id="TextBox1" />
+        <br />
+    <p style="text-align:left">    Institute:<br />
+        <input name="TextBox2" type="text" id="TextBox2" />
+        <br />
+        <p style="text-align:left">
+        Research Areas:<br />
+        <input name="TextBox3" type="text" id="TextBox3" />
+        <p style="text-align:left">
+        <br />
+        Comments<br />
+        <input name="TextBox4" type="text" id="TextBox4" style="height:155px;width:224px;" />
+        <br />
+        <select name="DropDownList1" id="DropDownList1">
+	<option value="MATLAB Code">MATLAB Code</option>
+
+
+</select>
+        <br />
+        <input type="submit" name="Button1" value="Submit" id="Button1" />
+        <br />
+        
+        <br />
+        
+        <br />
+            
+        <br />
+            
+        <br />        
+        <br />
+            
+            
+            
+            
+        <br />
+    </div>
+    </form>
+    </td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+		</tr>
+	</table>
+	</td>
+   <td width="4">&nbsp;</td>
+  </tr>
+  <tr>
+   <td height="23" colspan="6" background="index_r8_c1.jpg">&nbsp;</td>
+   <td width="4"><img src="images/spacer.gif" width="1" height="23" border="0" alt="" /></td>
+  </tr>
+  <tr>
+   <td colspan="6" background="index_r8_c1.jpg">
+	 <p style="text-align: left"></td>
+   <td width="4"><img src="index_r7_c1" width="1" height="20" border="0" alt="" /></td>
+  </tr>
+  <tr>
+  
+</table>
+</div>
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-6572818-1");
+        pageTracker._trackPageview();
+    } catch (err) { }</script>
+</body>
+
+</html>
