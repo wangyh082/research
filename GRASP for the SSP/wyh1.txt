@@ -1,0 +1,12 @@
+
+GRASP for the SSP
+-----------------
+instance size (number of strings)      : 10
+value of the parameter alpha           : 0.010000
+maximun number of iterations           : 128
+
+iterations for the best GRASP solution : 1
+length of the superstring              : 498
+total overlap in the superstring       : 35
+string order                           : 4 8 2 7 5 0 3 1 6 9 
+

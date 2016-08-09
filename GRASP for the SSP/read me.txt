@@ -1,0 +1,14 @@
+execution from the code directory:
+gcc driver.c -o run.o -lm
+./run.o example1.dat
+
+the input file can be of one of the two following formats:
+1. instance size
+   type = 1
+   overlap graph elements
+2. instance size
+   type = 2
+   maximum string length
+   string letters
+
+an instance of the first type is in file example1.dat and an instance of the second type is in file example2.dat. in the first format type the elements of the main diagonal of the adjacency matrix of the overlap graph must be equal to -1 and all the other elements must be non-negative integers. in the second format type the letters of the strings must be non-negative integers and the last letter of each string must be equal to -1
