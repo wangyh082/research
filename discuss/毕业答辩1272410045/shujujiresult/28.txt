@@ -1,0 +1,108 @@
+period=1.000000
+Sat Apr 05 17:36:43 2014
+
+N=20 M=20
+times:0
+solution is:3250.000000.       temperature is:999.920003
+ans array:
+2 16 17 15 20 5 7 18 12 3 10 6 4 11 13 19 14 8 9 1 
+Sat Apr 05 17:36:44 2014
+times:1
+solution is:3290.000000.       temperature is:999.800019
+ans array:
+2 16 4 17 6 7 18 5 12 20 15 13 11 10 9 3 1 19 14 8 
+Sat Apr 05 17:36:45 2014
+times:2
+solution is:3295.000000.       temperature is:999.810017
+ans array:
+2 15 16 4 17 6 11 18 7 12 13 10 14 3 20 5 8 19 9 1 
+Sat Apr 05 17:36:46 2014
+times:3
+solution is:3268.000000.       temperature is:999.640063
+ans array:
+2 16 17 9 15 20 5 7 13 11 18 12 10 6 4 19 14 3 8 1 
+Sat Apr 05 17:36:47 2014
+times:4
+solution is:3284.000000.       temperature is:999.690046
+ans array:
+2 16 9 20 15 12 6 3 10 7 13 5 18 1 11 4 8 19 14 17 
+Sat Apr 05 17:36:48 2014
+times:5
+solution is:3238.000000.       temperature is:999.890005
+ans array:
+2 15 16 17 6 12 13 4 11 10 7 18 3 5 1 19 14 8 9 20 
+Sat Apr 05 17:36:49 2014
+times:6
+solution is:3257.000000.       temperature is:999.970000
+ans array:
+2 15 16 17 5 4 6 10 7 13 12 18 11 3 1 19 14 8 9 20 
+Sat Apr 05 17:36:50 2014
+times:7
+solution is:3270.000000.       temperature is:999.600078
+ans array:
+2 16 17 9 6 13 18 5 15 20 11 10 14 7 8 4 19 12 3 1 
+Sat Apr 05 17:36:51 2014
+times:8
+solution is:3257.000000.       temperature is:999.400177
+ans array:
+2 15 16 17 5 4 6 10 7 13 12 18 11 3 1 19 14 8 9 20 
+Sat Apr 05 17:36:52 2014
+times:9
+solution is:3296.000000.       temperature is:999.890005
+ans array:
+6 20 15 5 10 16 18 9 17 7 13 11 2 12 8 19 4 14 3 1 
+Sat Apr 05 17:36:53 2014
+times:10
+solution is:3294.000000.       temperature is:999.720038
+ans array:
+6 20 15 5 7 4 16 10 17 18 11 13 2 12 9 8 19 14 3 1 
+Sat Apr 05 17:36:54 2014
+times:11
+solution is:3260.000000.       temperature is:999.790021
+ans array:
+2 16 9 6 13 15 20 12 11 10 7 4 8 5 18 14 3 19 17 1 
+Sat Apr 05 17:36:55 2014
+times:12
+solution is:3238.000000.       temperature is:999.620070
+ans array:
+2 16 9 6 20 15 5 10 7 8 4 14 12 18 11 13 3 19 17 1 
+Sat Apr 05 17:36:56 2014
+times:13
+solution is:3237.000000.       temperature is:999.710041
+ans array:
+2 16 9 6 20 15 5 7 12 18 13 11 10 14 8 4 3 19 17 1 
+Sat Apr 05 17:36:57 2014
+times:14
+solution is:3268.000000.       temperature is:999.900004
+ans array:
+2 16 17 9 15 20 5 7 13 11 18 12 10 6 4 19 14 3 8 1 
+Sat Apr 05 17:36:58 2014
+times:15
+solution is:3284.000000.       temperature is:999.210308
+ans array:
+2 16 9 20 15 12 6 3 10 7 13 5 1 18 11 4 8 19 14 17 
+Sat Apr 05 17:36:59 2014
+times:16
+solution is:3267.000000.       temperature is:999.910004
+ans array:
+2 16 17 9 6 13 11 20 15 5 18 10 14 7 8 4 19 12 3 1 
+Sat Apr 05 17:37:00 2014
+times:17
+solution is:3294.000000.       temperature is:999.400177
+ans array:
+6 20 15 5 16 7 18 17 12 13 2 11 10 9 8 4 19 14 3 1 
+Sat Apr 05 17:37:01 2014
+times:18
+solution is:3296.000000.       temperature is:999.790021
+ans array:
+6 20 15 5 10 16 18 9 17 7 13 11 2 12 8 19 4 14 3 1 
+Sat Apr 05 17:37:02 2014
+times:19
+solution is:3273.000000.       temperature is:999.980000
+ans array:
+2 15 16 6 1 5 10 7 8 4 18 12 3 19 14 13 11 17 9 20 
+Sat Apr 05 17:37:03 2014
+The average run time for the algorithm is : 1.002300
+The average solution for the algorithm is : 3270.800000
+The maxx solution for the algorithm is : 3296.000000
+The minn solution for the algorithm is : 3237.000000
