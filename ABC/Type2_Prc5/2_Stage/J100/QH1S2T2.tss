@@ -1,0 +1,16 @@
+* 10000 iterations
+TotalIter 10000
+* Tabu List length from 7
+MinTL 7
+* to 100
+MaxTL 100
+* Start from random solution
+InitNC
+* Loading file
+Open QH1S2T2.fpm
+* Initialization
+InitTS
+* Start searching
+Start
+* Results in results.txt
+OutFile TH1S2T2.txt

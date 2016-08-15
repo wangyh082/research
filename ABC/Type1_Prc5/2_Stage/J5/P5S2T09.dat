@@ -1,0 +1,9 @@
+jobs 5
+stage 2
+machines 3 5 
+*Pro_req*
+2 1 2 1 3 
+4 4 2 5 1 
+*Pro_time*
+76 91 5 21 30 
+97 27 26 86 14 

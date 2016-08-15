@@ -1,0 +1,16 @@
+* 10000 iterations
+TotalIter 1000000
+* Tabu List length from 7
+MinTL 7
+* to 100
+MaxTL 100
+* Start from random solution
+InitNC
+* Loading file
+Open P10S8T03.fpm
+* Initialization
+InitTS
+* Start searching
+Start
+* Results in results.txt
+OutFile T10S8T03.txt

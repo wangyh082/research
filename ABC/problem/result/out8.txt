@@ -1,0 +1,6 @@
+input\PH1S8T10.dat
+lower=4872.000000
+1. run: 12046.000000 
+Means of 1 runs: 12046.000000
+Mins  of 1 runs: 12046.000000
+PD of this time: 147.249589

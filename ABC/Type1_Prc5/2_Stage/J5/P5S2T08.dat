@@ -1,0 +1,9 @@
+jobs 5
+stage 2
+machines 1 2 
+*Pro_req*
+1 1 1 1 1 
+1 1 1 1 1 
+*Pro_time*
+100 78 55 33 48 
+1 64 76 6 23 

@@ -1,0 +1,9 @@
+jobs 5
+stage 2
+machines 5 5 
+*Pro_req*
+2 2 4 4 1 
+5 2 3 5 1 
+*Pro_time*
+11 70 21 41 47 
+84 80 69 99 99 

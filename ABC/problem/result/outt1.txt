@@ -1,0 +1,252 @@
+pos=1 number=1.402893
+pos=2 number=1.238770
+pos=3 number=1.266266
+pos=4 number=1.577911
+pos=5 number=1.962036
+pos=6 number=1.847931
+pos=7 number=1.588776
+pos=8 number=1.131165
+pos=9 number=1.827820
+pos=10 number=1.410522
+pos=11 number=1.212219
+pos=12 number=1.954041
+pos=13 number=1.398682
+pos=14 number=1.221863
+pos=15 number=1.278564
+pos=16 number=1.037079
+pos=17 number=1.953644
+pos=18 number=1.193512
+pos=19 number=1.307465
+pos=20 number=1.558197
+temp
+sort pos=16 number=1.037079
+sort pos=8 number=1.131165
+sort pos=18 number=1.193512
+sort pos=11 number=1.212219
+sort pos=14 number=1.221863
+sort pos=2 number=1.238770
+sort pos=3 number=1.266266
+sort pos=15 number=1.278564
+sort pos=19 number=1.307465
+sort pos=13 number=1.398682
+sort pos=1 number=1.402893
+sort pos=10 number=1.410522
+sort pos=20 number=1.558197
+sort pos=4 number=1.577911
+sort pos=7 number=1.588776
+sort pos=9 number=1.827820
+sort pos=6 number=1.847931
+sort pos=17 number=1.953644
+sort pos=12 number=1.954041
+sort pos=5 number=1.962036
+pos=1 number=1.248505
+pos=2 number=1.689453
+pos=3 number=1.812988
+pos=4 number=1.657288
+pos=5 number=1.317230
+pos=6 number=1.746826
+pos=7 number=1.766235
+pos=8 number=1.673523
+pos=9 number=1.884766
+pos=10 number=1.462830
+pos=11 number=1.559662
+pos=12 number=1.877167
+pos=13 number=1.297272
+pos=14 number=1.828766
+pos=15 number=1.629974
+pos=16 number=1.226318
+pos=17 number=1.376251
+pos=18 number=1.792725
+pos=19 number=1.395111
+pos=20 number=1.180542
+temp
+sort pos=20 number=1.180542
+sort pos=16 number=1.226318
+sort pos=1 number=1.248505
+sort pos=13 number=1.297272
+sort pos=5 number=1.317230
+sort pos=17 number=1.376251
+sort pos=19 number=1.395111
+sort pos=10 number=1.462830
+sort pos=11 number=1.559662
+sort pos=15 number=1.629974
+sort pos=4 number=1.657288
+sort pos=8 number=1.673523
+sort pos=2 number=1.689453
+sort pos=6 number=1.746826
+sort pos=7 number=1.766235
+sort pos=18 number=1.792725
+sort pos=3 number=1.812988
+sort pos=14 number=1.828766
+sort pos=12 number=1.877167
+sort pos=9 number=1.884766
+pos=1 number=1.411011
+pos=2 number=4.328003
+pos=3 number=3.648193
+pos=4 number=1.409912
+pos=5 number=3.151611
+pos=6 number=4.265381
+pos=7 number=1.646973
+pos=8 number=2.113159
+pos=9 number=4.544312
+pos=10 number=2.775269
+pos=11 number=2.468018
+pos=12 number=1.355469
+pos=13 number=1.426758
+pos=14 number=1.119385
+pos=15 number=2.000122
+pos=16 number=2.449585
+pos=17 number=4.925659
+pos=18 number=4.724731
+pos=19 number=1.541626
+pos=20 number=2.759399
+temp
+sort pos=14 number=1.119385
+sort pos=12 number=1.355469
+sort pos=4 number=1.409912
+sort pos=1 number=1.411011
+sort pos=13 number=1.426758
+sort pos=19 number=1.541626
+sort pos=7 number=1.646973
+sort pos=15 number=2.000122
+sort pos=8 number=2.113159
+sort pos=16 number=2.449585
+sort pos=11 number=2.468018
+sort pos=20 number=2.759399
+sort pos=10 number=2.775269
+sort pos=5 number=3.151611
+sort pos=3 number=3.648193
+sort pos=6 number=4.265381
+sort pos=2 number=4.328003
+sort pos=9 number=4.544312
+sort pos=18 number=4.724731
+sort pos=17 number=4.925659
+pos=1 number=1.084717
+pos=2 number=1.772034
+pos=3 number=1.610779
+pos=4 number=2.969666
+pos=5 number=1.536072
+pos=6 number=1.101929
+pos=7 number=2.026184
+pos=8 number=1.137024
+pos=9 number=2.906372
+pos=10 number=1.033997
+pos=11 number=1.120605
+pos=12 number=2.122925
+pos=13 number=2.316956
+pos=14 number=2.169922
+pos=15 number=2.191772
+pos=16 number=1.726440
+pos=17 number=2.293579
+pos=18 number=2.163940
+pos=19 number=1.582642
+pos=20 number=2.001953
+temp
+sort pos=10 number=1.033997
+sort pos=1 number=1.084717
+sort pos=6 number=1.101929
+sort pos=11 number=1.120605
+sort pos=8 number=1.137024
+sort pos=5 number=1.536072
+sort pos=19 number=1.582642
+sort pos=3 number=1.610779
+sort pos=16 number=1.726440
+sort pos=2 number=1.772034
+sort pos=20 number=2.001953
+sort pos=7 number=2.026184
+sort pos=12 number=2.122925
+sort pos=18 number=2.163940
+sort pos=14 number=2.169922
+sort pos=15 number=2.191772
+sort pos=17 number=2.293579
+sort pos=13 number=2.316956
+sort pos=9 number=2.906372
+sort pos=4 number=2.969666
+pos=1 number=3.847534
+pos=2 number=3.001099
+pos=3 number=3.196411
+pos=4 number=3.515625
+pos=5 number=4.223877
+pos=6 number=1.958496
+pos=7 number=4.604126
+pos=8 number=4.834961
+pos=9 number=2.489258
+pos=10 number=3.937134
+pos=11 number=2.007690
+pos=12 number=1.614380
+pos=13 number=4.157349
+pos=14 number=1.984253
+pos=15 number=1.501099
+pos=16 number=1.862793
+pos=17 number=4.328125
+pos=18 number=3.419312
+pos=19 number=1.268799
+pos=20 number=4.598755
+temp
+sort pos=19 number=1.268799
+sort pos=15 number=1.501099
+sort pos=12 number=1.614380
+sort pos=16 number=1.862793
+sort pos=6 number=1.958496
+sort pos=14 number=1.984253
+sort pos=11 number=2.007690
+sort pos=9 number=2.489258
+sort pos=2 number=3.001099
+sort pos=3 number=3.196411
+sort pos=18 number=3.419312
+sort pos=4 number=3.515625
+sort pos=1 number=3.847534
+sort pos=10 number=3.937134
+sort pos=13 number=4.157349
+sort pos=5 number=4.223877
+sort pos=17 number=4.328125
+sort pos=20 number=4.598755
+sort pos=7 number=4.604126
+sort pos=8 number=4.834961
+initial
+stages=1
+num=21 machines=1
+jobs=
+16 8 18 11 14 2 3 15 19 13 1 10 20 4 7 9 6 17 12 5 
+
+stages=2
+num=21 machines=1
+jobs=
+20 16 1 13 5 17 19 10 11 15 4 8 2 6 7 18 3 14 12 9 
+
+stages=3
+num=8 machines=1
+jobs=
+14 12 4 1 13 19 7 
+num=7 machines=2
+jobs=
+15 8 16 11 20 10 
+num=3 machines=3
+jobs=
+5 3 
+num=6 machines=4
+jobs=
+6 2 9 18 17 
+
+stages=4
+num=11 machines=1
+jobs=
+10 1 6 11 8 5 19 3 16 2 
+num=11 machines=2
+jobs=
+20 7 12 18 14 15 17 13 9 4 
+
+stages=5
+num=7 machines=1
+jobs=
+19 15 12 16 6 14 
+num=3 machines=2
+jobs=
+11 9 
+num=7 machines=3
+jobs=
+2 3 18 4 1 10 
+num=7 machines=4
+jobs=
+13 5 17 20 7 8 
+

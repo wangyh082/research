@@ -1,0 +1,26 @@
+* Flowshop with parallel machines (FPM) - instance description file *
+BEGIN_PROBLEM_DATA
+8 5
+* Machines *
+4 4 1 4 4 1 5 4 
+* Release Dates *
+0 0 0 0 0 
+* Processing Times *
+66 25 27 13 5 
+69 66 57 46 87 
+80 80 93 39 12 
+91 58 59 88 89 
+5 60 82 43 59 
+7 66 15 91 63 
+8 44 67 34 61 
+54 20 58 93 32 
+* Sizes *
+1 2 4 2 1 
+4 4 4 2 1 
+1 1 1 1 1 
+3 2 3 2 2 
+2 3 1 4 3 
+1 1 1 1 1 
+2 5 3 3 1 
+3 4 3 4 1 
+END_PROBLEM_DATA

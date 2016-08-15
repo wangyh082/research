@@ -1,0 +1,26 @@
+input\P10S2T03.dat
+lower=175.666667
+GlobalParam[1]: 1.793671
+GlobalParam[2]: 2.909332
+GlobalParam[3]: 2.751495
+GlobalParam[4]: 3.697144
+GlobalParam[5]: 1.691772
+GlobalParam[6]: 3.358948
+GlobalParam[7]: 2.214992
+GlobalParam[8]: 2.286957
+GlobalParam[9]: 1.181915
+GlobalParam[10]: 2.570679
+GlobalParam[11]: 1.786702
+GlobalParam[12]: 5.540100
+GlobalParam[13]: 2.847687
+GlobalParam[14]: 3.812653
+GlobalParam[15]: 3.730713
+GlobalParam[16]: 2.591644
+GlobalParam[17]: 4.496704
+GlobalParam[18]: 2.109314
+GlobalParam[19]: 4.769743
+GlobalParam[20]: 5.330750
+1. run: 189.000000 
+Means of 1 runs: 189.000000
+Mins  of 1 runs: 189.000000
+PD of this time: 7.590133

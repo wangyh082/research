@@ -1,0 +1,68 @@
+stages=5 jobs=10
+machines:
+3
+4
+1
+2
+5
+num=3 machines=1
+jobs=
+9 10 
+num=5 machines=2
+jobs=
+6 8 1 2 
+num=5 machines=3
+jobs=
+5 3 7 4 
+
+num=1 machines=1
+jobs=
+
+num=3 machines=2
+jobs=
+6 4 
+num=3 machines=3
+jobs=
+2 10 
+num=7 machines=4
+jobs=
+5 9 7 1 8 3 
+
+num=12 machines=1
+jobs=
+5 9 2 8 6 7 3 10 1 4 5 
+
+num=4 machines=1
+jobs=
+8 4 2 
+num=8 machines=2
+jobs=
+6 7 3 10 1 9 4 
+
+num=2 machines=1
+jobs=
+2 
+num=3 machines=2
+jobs=
+5 7 
+num=4 machines=3
+jobs=
+1 6 8 
+num=3 machines=4
+jobs=
+3 10 
+num=3 machines=5
+jobs=
+9 0 
+
+11 78 34 47 15 8 75 62 91 100 
+81 159 49 171 15 8 124 70 91 191 
+44 55 89 49 60 26 9 11 87 21 
+231 214 331 220 75 34 187 242 178 235 
+22 14 52 77 64 87 69 27 46 19 
+518 238 477 595 659 356 425 269 224 496 
+75 85 57 29 70 92 68 32 27 5 
+653 709 573 709 0 448 516 301 680 578 
+35 38 69 93 20 18 93 31 86 69 
+688 747 642 0 20 706 609 737 766 711 
+688 747 642 0 20 706 609 737 766 711 maxspan=766

@@ -1,0 +1,9 @@
+jobs 5
+stage 2
+machines 1 2 
+*Pro_req*
+1 1 1 1 1 
+2 1 1 2 1 
+*Pro_time*
+86 87 29 50 64 
+32 46 41 21 53 

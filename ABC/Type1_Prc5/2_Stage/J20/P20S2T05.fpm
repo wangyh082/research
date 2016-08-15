@@ -1,0 +1,14 @@
+* Flowshop with parallel machines (FPM) - instance description file *
+BEGIN_PROBLEM_DATA
+2 20
+* Machines *
+1 2 
+* Release Dates *
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+* Processing Times *
+42 8 42 84 4 3 41 42 26 77 100 31 75 3 16 69 57 82 38 18 
+89 53 31 32 42 14 24 24 55 30 64 47 70 94 38 39 11 81 91 89 
+* Sizes *
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+2 1 1 1 1 2 2 2 1 1 1 2 1 1 1 1 2 2 2 1 
+END_PROBLEM_DATA

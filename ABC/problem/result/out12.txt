@@ -1,0 +1,3199 @@
+lower=404.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+2 3 
+num=4 machines=2
+jobs=
+4 5 7 
+num=2 machines=3
+jobs=
+8 
+num=2 machines=4
+jobs=
+1 
+num=4 machines=5
+jobs=
+6 10 9 
+
+stages=2
+num=11 machines=1
+jobs=
+5 8 6 3 9 7 2 1 4 10 
+
+f[1]=506.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+7 6 2 
+num=3 machines=2
+jobs=
+3 1 
+num=1 machines=3
+jobs=
+
+num=2 machines=4
+jobs=
+9 
+num=5 machines=5
+jobs=
+5 10 8 4 
+
+stages=2
+num=11 machines=1
+jobs=
+3 4 10 7 5 8 6 9 2 1 
+
+f[2]=617.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=3 machines=2
+jobs=
+8 4 
+num=1 machines=3
+jobs=
+
+num=5 machines=4
+jobs=
+5 6 9 7 
+num=5 machines=5
+jobs=
+2 1 3 10 
+
+stages=2
+num=11 machines=1
+jobs=
+10 9 7 1 4 8 3 5 2 6 
+
+f[3]=722.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+6 
+num=4 machines=2
+jobs=
+2 9 3 
+num=4 machines=3
+jobs=
+4 8 1 
+num=3 machines=4
+jobs=
+10 7 
+num=2 machines=5
+jobs=
+5 
+
+stages=2
+num=11 machines=1
+jobs=
+2 6 3 9 7 5 1 4 8 10 
+
+f[4]=468.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+5 2 
+num=4 machines=2
+jobs=
+9 3 1 
+num=3 machines=3
+jobs=
+7 8 
+num=2 machines=4
+jobs=
+4 
+num=3 machines=5
+jobs=
+10 6 
+
+stages=2
+num=11 machines=1
+jobs=
+1 6 2 4 9 5 7 10 8 3 
+
+f[5]=561.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+3 2 
+num=3 machines=2
+jobs=
+7 1 
+num=1 machines=3
+jobs=
+
+num=5 machines=4
+jobs=
+8 6 5 4 
+num=3 machines=5
+jobs=
+10 9 
+
+stages=2
+num=11 machines=1
+jobs=
+7 8 6 10 1 4 3 9 2 5 
+
+f[6]=437.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+10 
+num=3 machines=2
+jobs=
+2 5 
+num=6 machines=3
+jobs=
+3 8 4 9 1 
+num=1 machines=4
+jobs=
+
+num=3 machines=5
+jobs=
+7 6 
+
+stages=2
+num=11 machines=1
+jobs=
+1 5 8 10 7 2 3 6 4 9 
+
+f[7]=723.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+3 7 2 
+num=2 machines=2
+jobs=
+10 
+num=5 machines=3
+jobs=
+8 9 6 4 
+num=1 machines=4
+jobs=
+
+num=3 machines=5
+jobs=
+5 1 
+
+stages=2
+num=11 machines=1
+jobs=
+6 7 5 3 10 8 2 1 4 9 
+
+f[8]=520.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+2 8 
+num=1 machines=2
+jobs=
+
+num=6 machines=3
+jobs=
+10 9 7 6 5 
+num=3 machines=4
+jobs=
+3 4 
+num=2 machines=5
+jobs=
+1 
+
+stages=2
+num=11 machines=1
+jobs=
+10 3 8 4 6 5 1 7 2 9 
+
+f[9]=498.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+5 
+num=3 machines=2
+jobs=
+9 4 
+num=3 machines=3
+jobs=
+6 10 
+num=2 machines=4
+jobs=
+8 
+num=5 machines=5
+jobs=
+2 1 3 7 
+
+stages=2
+num=11 machines=1
+jobs=
+10 5 8 1 4 6 3 7 9 2 
+
+f[10]=519.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+3 
+num=3 machines=2
+jobs=
+7 6 
+num=3 machines=3
+jobs=
+5 9 
+num=2 machines=4
+jobs=
+10 
+num=5 machines=5
+jobs=
+1 2 4 8 
+
+stages=2
+num=11 machines=1
+jobs=
+7 2 10 1 6 5 4 3 9 8 
+
+f[11]=452.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=5 machines=2
+jobs=
+3 10 7 2 
+num=2 machines=3
+jobs=
+6 
+num=5 machines=4
+jobs=
+9 4 5 8 
+num=2 machines=5
+jobs=
+1 
+
+stages=2
+num=11 machines=1
+jobs=
+9 5 7 4 6 1 10 3 2 8 
+
+f[12]=574.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=4 machines=2
+jobs=
+7 2 8 
+num=2 machines=3
+jobs=
+5 
+num=6 machines=4
+jobs=
+3 10 6 4 9 
+num=2 machines=5
+jobs=
+1 
+
+stages=2
+num=11 machines=1
+jobs=
+7 2 3 5 4 1 9 8 10 6 
+
+f[13]=430.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+5 6 
+num=1 machines=2
+jobs=
+
+num=3 machines=3
+jobs=
+7 2 
+num=5 machines=4
+jobs=
+10 3 1 9 
+num=3 machines=5
+jobs=
+4 8 
+
+stages=2
+num=11 machines=1
+jobs=
+10 1 2 8 5 7 3 6 9 4 
+
+f[14]=633.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+3 5 
+num=1 machines=2
+jobs=
+
+num=4 machines=3
+jobs=
+7 6 10 
+num=4 machines=4
+jobs=
+1 4 8 
+num=3 machines=5
+jobs=
+9 2 
+
+stages=2
+num=11 machines=1
+jobs=
+2 1 9 6 8 10 7 5 4 3 
+
+f[15]=471.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+3 2 9 
+num=3 machines=2
+jobs=
+7 1 
+num=5 machines=3
+jobs=
+4 8 6 5 
+num=2 machines=4
+jobs=
+10 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+10 5 1 7 4 3 8 2 9 6 
+
+f[2]=586.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+9 10 
+num=2 machines=2
+jobs=
+7 
+num=3 machines=3
+jobs=
+5 8 
+num=6 machines=4
+jobs=
+6 3 1 4 2 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+8 7 4 5 6 1 3 2 9 10 
+
+f[3]=566.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+4 2 9 
+num=1 machines=2
+jobs=
+
+num=3 machines=3
+jobs=
+6 1 
+num=5 machines=4
+jobs=
+7 8 3 10 
+num=2 machines=5
+jobs=
+5 
+
+stages=2
+num=11 machines=1
+jobs=
+1 4 7 8 9 10 2 6 3 5 
+
+f[14]=544.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+9 5 
+num=2 machines=2
+jobs=
+4 
+num=3 machines=3
+jobs=
+2 7 
+num=3 machines=4
+jobs=
+10 3 
+num=4 machines=5
+jobs=
+1 8 6 
+
+stages=2
+num=11 machines=1
+jobs=
+8 1 9 2 7 5 10 3 6 4 
+
+f[6]=559.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+1 4 
+num=3 machines=2
+jobs=
+7 2 
+num=2 machines=3
+jobs=
+5 
+num=1 machines=4
+jobs=
+
+num=6 machines=5
+jobs=
+3 9 10 8 6 
+
+stages=2
+num=11 machines=1
+jobs=
+6 3 4 8 9 1 2 5 7 10 
+
+f[4]=711.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+2 
+num=4 machines=2
+jobs=
+3 9 7 
+num=3 machines=3
+jobs=
+4 8 
+num=3 machines=4
+jobs=
+6 5 
+num=3 machines=5
+jobs=
+1 10 
+
+stages=2
+num=11 machines=1
+jobs=
+1 7 6 4 3 5 9 2 10 8 
+
+f[10]=483.000000
+initial
+stages=1
+num=5 machines=1
+jobs=
+7 6 9 4 
+num=1 machines=2
+jobs=
+
+num=4 machines=3
+jobs=
+1 8 10 
+num=3 machines=4
+jobs=
+5 2 
+num=2 machines=5
+jobs=
+3 
+
+stages=2
+num=11 machines=1
+jobs=
+6 3 7 9 8 4 1 5 2 10 
+
+f[9]=453.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=5 machines=2
+jobs=
+4 7 6 10 
+num=3 machines=3
+jobs=
+3 2 
+num=4 machines=4
+jobs=
+9 1 8 
+num=2 machines=5
+jobs=
+5 
+
+stages=2
+num=11 machines=1
+jobs=
+7 6 4 2 5 10 9 8 1 3 
+
+f[1]=491.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+8 2 
+num=2 machines=2
+jobs=
+9 
+num=2 machines=3
+jobs=
+5 
+num=4 machines=4
+jobs=
+10 4 6 
+num=4 machines=5
+jobs=
+3 7 1 
+
+stages=2
+num=11 machines=1
+jobs=
+9 7 10 4 3 2 6 5 8 1 
+
+f[5]=490.000000
+initial
+stages=1
+num=5 machines=1
+jobs=
+9 7 5 4 
+num=2 machines=2
+jobs=
+10 
+num=2 machines=3
+jobs=
+8 
+num=3 machines=4
+jobs=
+6 1 
+num=3 machines=5
+jobs=
+2 3 
+
+stages=2
+num=11 machines=1
+jobs=
+4 10 5 2 7 9 1 8 6 3 
+
+f[15]=518.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+7 2 1 
+num=3 machines=2
+jobs=
+3 5 
+num=4 machines=3
+jobs=
+10 4 6 
+num=2 machines=4
+jobs=
+9 
+num=2 machines=5
+jobs=
+8 
+
+stages=2
+num=11 machines=1
+jobs=
+6 2 3 1 7 8 9 5 10 4 
+
+f[12]=586.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=3 machines=2
+jobs=
+8 5 
+num=3 machines=3
+jobs=
+1 9 
+num=4 machines=4
+jobs=
+2 3 10 
+num=4 machines=5
+jobs=
+6 7 4 
+
+stages=2
+num=11 machines=1
+jobs=
+8 7 3 5 9 1 2 6 4 10 
+
+f[11]=496.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+8 
+num=4 machines=2
+jobs=
+7 9 1 
+num=1 machines=3
+jobs=
+
+num=4 machines=4
+jobs=
+3 6 5 
+num=4 machines=5
+jobs=
+10 2 4 
+
+stages=2
+num=11 machines=1
+jobs=
+3 10 7 6 2 8 1 5 9 4 
+
+f[13]=495.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+2 5 3 
+num=3 machines=2
+jobs=
+9 4 
+num=3 machines=3
+jobs=
+8 6 
+num=2 machines=4
+jobs=
+1 
+num=3 machines=5
+jobs=
+10 7 
+
+stages=2
+num=11 machines=1
+jobs=
+7 5 9 10 8 4 3 6 1 2 
+
+f[14]=521.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+3 2 
+num=3 machines=2
+jobs=
+8 4 
+num=3 machines=3
+jobs=
+5 7 
+num=3 machines=4
+jobs=
+10 9 
+num=3 machines=5
+jobs=
+1 6 
+
+stages=2
+num=11 machines=1
+jobs=
+1 6 3 10 5 2 7 9 8 4 
+
+f[1]=464.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+5 6 7 
+num=3 machines=2
+jobs=
+9 8 
+num=2 machines=3
+jobs=
+3 
+num=3 machines=4
+jobs=
+1 2 
+num=3 machines=5
+jobs=
+4 10 
+
+stages=2
+num=11 machines=1
+jobs=
+2 4 1 7 8 3 6 10 5 9 
+
+f[3]=531.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+4 9 8 
+num=4 machines=2
+jobs=
+2 10 5 
+num=3 machines=3
+jobs=
+1 3 
+num=2 machines=4
+jobs=
+7 
+num=2 machines=5
+jobs=
+6 
+
+stages=2
+num=11 machines=1
+jobs=
+8 10 4 1 2 7 6 5 3 9 
+
+f[7]=566.000000
+initial
+stages=1
+num=5 machines=1
+jobs=
+9 8 3 6 
+num=1 machines=2
+jobs=
+
+num=4 machines=3
+jobs=
+5 4 2 
+num=3 machines=4
+jobs=
+1 7 
+num=2 machines=5
+jobs=
+10 
+
+stages=2
+num=11 machines=1
+jobs=
+10 9 5 4 1 6 3 7 8 2 
+
+f[9]=498.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+2 9 5 
+num=4 machines=2
+jobs=
+8 7 3 
+num=2 machines=3
+jobs=
+1 
+num=2 machines=4
+jobs=
+10 
+num=3 machines=5
+jobs=
+6 4 
+
+stages=2
+num=11 machines=1
+jobs=
+7 5 9 1 3 6 4 2 8 10 
+
+f[6]=519.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=6 machines=2
+jobs=
+2 6 1 4 9 
+num=2 machines=3
+jobs=
+10 
+num=4 machines=4
+jobs=
+8 5 7 
+num=2 machines=5
+jobs=
+3 
+
+stages=2
+num=11 machines=1
+jobs=
+8 1 7 6 2 4 5 3 10 9 
+
+f[8]=551.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+3 4 
+num=2 machines=2
+jobs=
+9 
+num=3 machines=3
+jobs=
+2 6 
+num=3 machines=4
+jobs=
+1 8 
+num=4 machines=5
+jobs=
+5 10 7 
+
+stages=2
+num=11 machines=1
+jobs=
+10 5 8 9 1 2 6 7 4 3 
+
+f[2]=524.000000
+initial
+stages=1
+num=6 machines=1
+jobs=
+9 10 3 8 7 
+num=1 machines=2
+jobs=
+
+num=3 machines=3
+jobs=
+4 2 
+num=4 machines=4
+jobs=
+1 6 5 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+6 7 4 10 1 5 8 2 9 3 
+
+f[4]=671.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+6 1 3 
+num=4 machines=2
+jobs=
+7 10 5 
+num=2 machines=3
+jobs=
+4 
+num=2 machines=4
+jobs=
+9 
+num=3 machines=5
+jobs=
+2 8 
+
+stages=2
+num=11 machines=1
+jobs=
+7 8 6 4 3 9 1 10 2 5 
+
+f[10]=484.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+8 
+num=3 machines=2
+jobs=
+10 1 
+num=2 machines=3
+jobs=
+2 
+num=6 machines=4
+jobs=
+7 9 3 5 4 
+num=2 machines=5
+jobs=
+6 
+
+stages=2
+num=11 machines=1
+jobs=
+4 3 6 2 5 1 7 10 8 9 
+
+f[12]=612.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=3 machines=2
+jobs=
+5 9 
+num=3 machines=3
+jobs=
+7 3 
+num=4 machines=4
+jobs=
+6 2 8 
+num=4 machines=5
+jobs=
+10 1 4 
+
+stages=2
+num=11 machines=1
+jobs=
+5 8 3 6 1 7 9 10 4 2 
+
+f[14]=571.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+8 
+num=2 machines=2
+jobs=
+1 
+num=6 machines=3
+jobs=
+3 5 7 2 4 
+num=3 machines=4
+jobs=
+9 10 
+num=2 machines=5
+jobs=
+6 
+
+stages=2
+num=11 machines=1
+jobs=
+1 4 7 3 9 2 6 8 5 10 
+
+f[7]=638.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+9 4 
+num=2 machines=2
+jobs=
+10 
+num=4 machines=3
+jobs=
+6 1 2 
+num=1 machines=4
+jobs=
+
+num=5 machines=5
+jobs=
+7 5 8 3 
+
+stages=2
+num=11 machines=1
+jobs=
+2 4 6 9 7 8 5 1 3 10 
+
+f[3]=552.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+2 3 
+num=2 machines=2
+jobs=
+9 
+num=2 machines=3
+jobs=
+1 
+num=3 machines=4
+jobs=
+5 10 
+num=5 machines=5
+jobs=
+6 7 4 8 
+
+stages=2
+num=11 machines=1
+jobs=
+2 3 9 8 4 6 5 7 10 1 
+
+f[13]=471.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+3 8 
+num=4 machines=2
+jobs=
+1 10 5 
+num=3 machines=3
+jobs=
+9 4 
+num=4 machines=4
+jobs=
+2 7 6 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+1 4 2 8 3 6 5 9 7 10 
+
+f[1]=464.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+7 
+num=2 machines=2
+jobs=
+1 
+num=5 machines=3
+jobs=
+4 9 3 2 
+num=2 machines=4
+jobs=
+10 
+num=4 machines=5
+jobs=
+8 6 5 
+
+stages=2
+num=11 machines=1
+jobs=
+6 7 5 3 10 2 4 1 8 9 
+
+f[5]=517.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+5 1 
+num=2 machines=2
+jobs=
+6 
+num=3 machines=3
+jobs=
+2 4 
+num=4 machines=4
+jobs=
+10 8 9 
+num=3 machines=5
+jobs=
+7 3 
+
+stages=2
+num=11 machines=1
+jobs=
+7 1 5 8 9 4 3 6 2 10 
+
+f[15]=465.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+1 9 
+num=3 machines=2
+jobs=
+3 4 
+num=3 machines=3
+jobs=
+5 6 
+num=4 machines=4
+jobs=
+10 8 2 
+num=2 machines=5
+jobs=
+7 
+
+stages=2
+num=11 machines=1
+jobs=
+3 6 2 1 5 8 9 7 4 10 
+
+f[8]=551.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+8 9 3 
+num=4 machines=2
+jobs=
+2 1 5 
+num=2 machines=3
+jobs=
+6 
+num=3 machines=4
+jobs=
+10 4 
+num=2 machines=5
+jobs=
+7 
+
+stages=2
+num=11 machines=1
+jobs=
+3 9 5 7 8 2 1 10 6 4 
+
+f[12]=593.000000
+1. run: 404.000000 
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=2 machines=2
+jobs=
+6 
+num=4 machines=3
+jobs=
+9 8 2 
+num=6 machines=4
+jobs=
+10 3 1 4 5 
+num=2 machines=5
+jobs=
+7 
+
+stages=2
+num=11 machines=1
+jobs=
+5 3 1 10 4 8 6 2 7 9 
+
+f[1]=746.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+4 7 
+num=3 machines=2
+jobs=
+5 2 
+num=4 machines=3
+jobs=
+10 3 1 
+num=3 machines=4
+jobs=
+9 8 
+num=2 machines=5
+jobs=
+6 
+
+stages=2
+num=11 machines=1
+jobs=
+1 7 9 4 3 10 6 2 5 8 
+
+f[2]=655.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+7 5 10 
+num=2 machines=2
+jobs=
+1 
+num=3 machines=3
+jobs=
+4 8 
+num=3 machines=4
+jobs=
+3 9 
+num=3 machines=5
+jobs=
+2 6 
+
+stages=2
+num=11 machines=1
+jobs=
+3 8 4 5 10 2 1 9 7 6 
+
+f[3]=496.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+7 
+num=4 machines=2
+jobs=
+3 5 4 
+num=2 machines=3
+jobs=
+10 
+num=3 machines=4
+jobs=
+9 1 
+num=4 machines=5
+jobs=
+2 6 8 
+
+stages=2
+num=11 machines=1
+jobs=
+3 7 2 5 10 1 8 4 9 6 
+
+f[4]=495.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+6 9 
+num=1 machines=2
+jobs=
+
+num=5 machines=3
+jobs=
+5 2 3 8 
+num=4 machines=4
+jobs=
+4 10 1 
+num=2 machines=5
+jobs=
+7 
+
+stages=2
+num=11 machines=1
+jobs=
+5 1 3 9 6 10 4 7 8 2 
+
+f[5]=615.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+9 
+num=2 machines=2
+jobs=
+6 
+num=3 machines=3
+jobs=
+7 8 
+num=4 machines=4
+jobs=
+10 1 5 
+num=4 machines=5
+jobs=
+2 4 3 
+
+stages=2
+num=11 machines=1
+jobs=
+9 8 7 2 1 5 10 4 6 3 
+
+f[6]=491.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+8 
+num=2 machines=2
+jobs=
+1 
+num=4 machines=3
+jobs=
+6 2 10 
+num=4 machines=4
+jobs=
+5 7 3 
+num=3 machines=5
+jobs=
+4 9 
+
+stages=2
+num=11 machines=1
+jobs=
+8 5 10 7 6 4 1 2 9 3 
+
+f[7]=572.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+4 8 
+num=4 machines=2
+jobs=
+1 3 7 
+num=2 machines=3
+jobs=
+6 
+num=1 machines=4
+jobs=
+
+num=5 machines=5
+jobs=
+10 5 9 2 
+
+stages=2
+num=11 machines=1
+jobs=
+1 3 8 7 9 2 10 4 5 6 
+
+f[8]=520.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+8 4 
+num=4 machines=2
+jobs=
+9 7 2 
+num=2 machines=3
+jobs=
+10 
+num=4 machines=4
+jobs=
+5 1 6 
+num=2 machines=5
+jobs=
+3 
+
+stages=2
+num=11 machines=1
+jobs=
+4 8 5 6 9 1 2 3 7 10 
+
+f[9]=563.000000
+initial
+stages=1
+num=6 machines=1
+jobs=
+7 10 4 9 2 
+num=1 machines=2
+jobs=
+
+num=2 machines=3
+jobs=
+6 
+num=3 machines=4
+jobs=
+5 8 
+num=3 machines=5
+jobs=
+3 1 
+
+stages=2
+num=11 machines=1
+jobs=
+10 5 9 2 4 3 6 7 1 8 
+
+f[10]=595.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=3 machines=2
+jobs=
+9 4 
+num=5 machines=3
+jobs=
+7 10 6 1 
+num=3 machines=4
+jobs=
+5 8 
+num=3 machines=5
+jobs=
+2 3 
+
+stages=2
+num=11 machines=1
+jobs=
+9 2 5 10 8 1 3 6 7 4 
+
+f[11]=450.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+3 
+num=2 machines=2
+jobs=
+9 
+num=2 machines=3
+jobs=
+6 
+num=4 machines=4
+jobs=
+4 7 1 
+num=5 machines=5
+jobs=
+10 8 5 2 
+
+stages=2
+num=11 machines=1
+jobs=
+1 10 6 2 4 9 3 5 8 7 
+
+f[12]=582.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+8 
+num=5 machines=2
+jobs=
+4 6 10 3 
+num=1 machines=3
+jobs=
+
+num=2 machines=4
+jobs=
+2 
+num=5 machines=5
+jobs=
+9 1 7 5 
+
+stages=2
+num=11 machines=1
+jobs=
+9 7 1 4 10 8 2 5 3 6 
+
+f[13]=462.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+5 2 
+num=3 machines=2
+jobs=
+7 8 
+num=1 machines=3
+jobs=
+
+num=2 machines=4
+jobs=
+4 
+num=6 machines=5
+jobs=
+1 10 9 6 3 
+
+stages=2
+num=11 machines=1
+jobs=
+1 5 10 8 2 3 6 7 9 4 
+
+f[14]=514.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+8 9 10 
+num=1 machines=2
+jobs=
+
+num=2 machines=3
+jobs=
+5 
+num=4 machines=4
+jobs=
+4 2 6 
+num=4 machines=5
+jobs=
+3 1 7 
+
+stages=2
+num=11 machines=1
+jobs=
+6 10 2 8 3 5 7 4 9 1 
+
+f[15]=556.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+10 7 
+num=2 machines=2
+jobs=
+2 
+num=5 machines=3
+jobs=
+1 9 3 8 
+num=3 machines=4
+jobs=
+4 6 
+num=2 machines=5
+jobs=
+5 
+
+stages=2
+num=11 machines=1
+jobs=
+1 6 5 3 9 4 8 10 7 2 
+
+f[12]=468.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+6 5 2 
+num=2 machines=2
+jobs=
+3 
+num=2 machines=3
+jobs=
+7 
+num=4 machines=4
+jobs=
+10 1 4 
+num=3 machines=5
+jobs=
+8 9 
+
+stages=2
+num=11 machines=1
+jobs=
+9 8 7 4 5 10 6 1 3 2 
+
+f[1]=520.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+3 
+num=4 machines=2
+jobs=
+9 5 6 
+num=4 machines=3
+jobs=
+2 8 4 
+num=2 machines=4
+jobs=
+10 
+num=3 machines=5
+jobs=
+1 7 
+
+stages=2
+num=11 machines=1
+jobs=
+1 6 2 5 7 8 3 4 10 9 
+
+f[2]=464.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+6 8 7 
+num=2 machines=2
+jobs=
+3 
+num=3 machines=3
+jobs=
+2 1 
+num=3 machines=4
+jobs=
+9 5 
+num=3 machines=5
+jobs=
+10 4 
+
+stages=2
+num=11 machines=1
+jobs=
+1 5 3 6 2 7 10 4 9 8 
+
+f[3]=531.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=2 machines=2
+jobs=
+2 
+num=5 machines=3
+jobs=
+6 9 1 8 
+num=5 machines=4
+jobs=
+5 7 10 3 
+num=2 machines=5
+jobs=
+4 
+
+stages=2
+num=11 machines=1
+jobs=
+4 2 6 5 7 1 9 10 3 8 
+
+f[4]=468.000000
+initial
+stages=1
+num=5 machines=1
+jobs=
+3 10 2 7 
+num=2 machines=2
+jobs=
+5 
+num=2 machines=3
+jobs=
+9 
+num=1 machines=4
+jobs=
+
+num=5 machines=5
+jobs=
+6 4 8 1 
+
+stages=2
+num=11 machines=1
+jobs=
+3 2 7 6 4 5 1 9 10 8 
+
+f[5]=592.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+10 8 
+num=4 machines=2
+jobs=
+6 2 1 
+num=2 machines=3
+jobs=
+5 
+num=3 machines=4
+jobs=
+9 3 
+num=3 machines=5
+jobs=
+7 4 
+
+stages=2
+num=11 machines=1
+jobs=
+10 6 2 8 7 9 4 5 1 3 
+
+f[6]=498.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+1 7 
+num=2 machines=2
+jobs=
+9 
+num=4 machines=3
+jobs=
+3 5 6 
+num=3 machines=4
+jobs=
+10 8 
+num=3 machines=5
+jobs=
+2 4 
+
+stages=2
+num=11 machines=1
+jobs=
+3 9 10 5 7 4 2 1 6 8 
+
+f[7]=495.000000
+initial
+stages=1
+num=5 machines=1
+jobs=
+5 4 2 7 
+num=3 machines=2
+jobs=
+9 6 
+num=2 machines=3
+jobs=
+10 
+num=3 machines=4
+jobs=
+8 1 
+num=2 machines=5
+jobs=
+3 
+
+stages=2
+num=11 machines=1
+jobs=
+7 1 4 10 2 6 9 5 3 8 
+
+f[11]=582.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+10 
+num=5 machines=2
+jobs=
+8 4 9 3 
+num=3 machines=3
+jobs=
+6 5 
+num=2 machines=4
+jobs=
+7 
+num=3 machines=5
+jobs=
+1 2 
+
+stages=2
+num=11 machines=1
+jobs=
+9 3 2 5 10 6 1 4 7 8 
+
+f[13]=632.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=6 machines=2
+jobs=
+9 8 10 1 3 
+num=2 machines=3
+jobs=
+7 
+num=2 machines=4
+jobs=
+4 
+num=4 machines=5
+jobs=
+6 2 5 
+
+stages=2
+num=11 machines=1
+jobs=
+7 5 2 6 3 9 8 4 10 1 
+
+f[15]=528.000000
+initial
+stages=1
+num=5 machines=1
+jobs=
+9 8 1 5 
+num=2 machines=2
+jobs=
+2 
+num=2 machines=3
+jobs=
+7 
+num=2 machines=4
+jobs=
+3 
+num=4 machines=5
+jobs=
+4 10 6 
+
+stages=2
+num=11 machines=1
+jobs=
+6 5 3 2 10 9 4 1 7 8 
+
+f[8]=586.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+8 9 5 
+num=4 machines=2
+jobs=
+3 7 1 
+num=2 machines=3
+jobs=
+6 
+num=3 machines=4
+jobs=
+4 2 
+num=2 machines=5
+jobs=
+10 
+
+stages=2
+num=11 machines=1
+jobs=
+9 10 5 3 2 4 6 7 1 8 
+
+f[9]=499.000000
+initial
+stages=1
+num=6 machines=1
+jobs=
+7 3 5 2 8 
+num=1 machines=2
+jobs=
+
+num=2 machines=3
+jobs=
+9 
+num=3 machines=4
+jobs=
+10 6 
+num=3 machines=5
+jobs=
+1 4 
+
+stages=2
+num=11 machines=1
+jobs=
+3 5 6 10 8 7 1 2 9 4 
+
+f[10]=560.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+2 1 
+num=1 machines=2
+jobs=
+
+num=7 machines=3
+jobs=
+7 9 10 5 3 4 
+num=2 machines=4
+jobs=
+8 
+num=2 machines=5
+jobs=
+6 
+
+stages=2
+num=11 machines=1
+jobs=
+8 3 4 6 7 9 5 1 10 2 
+
+f[14]=641.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+9 2 
+num=2 machines=2
+jobs=
+7 
+num=3 machines=3
+jobs=
+10 3 
+num=4 machines=4
+jobs=
+1 6 5 
+num=3 machines=5
+jobs=
+8 4 
+
+stages=2
+num=11 machines=1
+jobs=
+5 10 1 2 8 3 7 6 9 4 
+
+f[5]=509.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+2 6 
+num=5 machines=2
+jobs=
+8 9 5 4 
+num=2 machines=3
+jobs=
+10 
+num=3 machines=4
+jobs=
+7 1 
+num=2 machines=5
+jobs=
+3 
+
+stages=2
+num=11 machines=1
+jobs=
+7 10 4 2 6 9 5 3 8 1 
+
+f[4]=489.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+8 4 1 
+num=2 machines=2
+jobs=
+2 
+num=2 machines=3
+jobs=
+10 
+num=4 machines=4
+jobs=
+7 6 9 
+num=3 machines=5
+jobs=
+3 5 
+
+stages=2
+num=11 machines=1
+jobs=
+8 6 9 4 2 7 10 5 3 1 
+
+f[15]=496.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+4 
+num=2 machines=2
+jobs=
+5 
+num=3 machines=3
+jobs=
+6 3 
+num=4 machines=4
+jobs=
+2 9 8 
+num=4 machines=5
+jobs=
+7 1 10 
+
+stages=2
+num=11 machines=1
+jobs=
+4 1 5 2 8 10 6 3 9 7 
+
+f[12]=468.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+1 5 
+num=4 machines=2
+jobs=
+2 6 7 
+num=3 machines=3
+jobs=
+10 4 
+num=2 machines=4
+jobs=
+9 
+num=3 machines=5
+jobs=
+8 3 
+
+stages=2
+num=11 machines=1
+jobs=
+6 8 5 2 4 1 7 3 10 9 
+
+f[13]=489.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+5 
+num=3 machines=2
+jobs=
+10 3 
+num=4 machines=3
+jobs=
+4 1 8 
+num=2 machines=4
+jobs=
+2 
+num=4 machines=5
+jobs=
+6 9 7 
+
+stages=2
+num=11 machines=1
+jobs=
+10 6 1 3 9 4 5 2 7 8 
+
+f[1]=498.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+8 3 
+num=4 machines=2
+jobs=
+1 10 4 
+num=1 machines=3
+jobs=
+
+num=2 machines=4
+jobs=
+2 
+num=5 machines=5
+jobs=
+6 7 5 9 
+
+stages=2
+num=11 machines=1
+jobs=
+10 4 8 9 1 2 5 3 6 7 
+
+f[14]=606.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+7 3 2 
+num=5 machines=2
+jobs=
+4 5 1 6 
+num=3 machines=3
+jobs=
+8 10 
+num=2 machines=4
+jobs=
+9 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+4 2 8 6 5 10 3 9 1 7 
+
+f[6]=565.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+1 2 9 
+num=1 machines=2
+jobs=
+
+num=3 machines=3
+jobs=
+8 6 
+num=6 machines=4
+jobs=
+3 7 5 10 4 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+1 6 4 8 7 3 5 9 10 2 
+
+f[7]=626.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+1 6 4 
+num=4 machines=2
+jobs=
+7 5 3 
+num=2 machines=3
+jobs=
+2 
+num=3 machines=4
+jobs=
+8 9 
+num=2 machines=5
+jobs=
+10 
+
+stages=2
+num=11 machines=1
+jobs=
+1 4 2 10 3 5 6 8 9 7 
+
+f[8]=514.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+10 6 1 
+num=2 machines=2
+jobs=
+7 
+num=4 machines=3
+jobs=
+8 2 4 
+num=2 machines=4
+jobs=
+9 
+num=3 machines=5
+jobs=
+5 3 
+
+stages=2
+num=11 machines=1
+jobs=
+8 10 2 4 9 3 6 5 7 1 
+
+f[2]=540.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+8 
+num=4 machines=2
+jobs=
+6 5 9 
+num=3 machines=3
+jobs=
+4 3 
+num=2 machines=4
+jobs=
+1 
+num=4 machines=5
+jobs=
+7 10 2 
+
+stages=2
+num=11 machines=1
+jobs=
+9 5 10 1 4 6 8 7 3 2 
+
+f[10]=480.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+2 10 9 
+num=5 machines=2
+jobs=
+1 6 7 5 
+num=3 machines=3
+jobs=
+4 3 
+num=1 machines=4
+jobs=
+
+num=2 machines=5
+jobs=
+8 
+
+stages=2
+num=11 machines=1
+jobs=
+8 9 4 1 2 7 6 5 3 10 
+
+f[11]=567.000000
+2. run: 404.000000 
+initial
+stages=1
+num=3 machines=1
+jobs=
+9 10 
+num=3 machines=2
+jobs=
+5 7 
+num=1 machines=3
+jobs=
+
+num=5 machines=4
+jobs=
+8 1 2 4 
+num=3 machines=5
+jobs=
+6 3 
+
+stages=2
+num=11 machines=1
+jobs=
+1 5 6 2 4 10 7 3 9 8 
+
+f[1]=559.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+2 
+num=4 machines=2
+jobs=
+1 6 8 
+num=4 machines=3
+jobs=
+3 5 9 
+num=2 machines=4
+jobs=
+7 
+num=3 machines=5
+jobs=
+4 10 
+
+stages=2
+num=11 machines=1
+jobs=
+8 9 7 4 1 5 2 10 3 6 
+
+f[2]=580.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+6 
+num=4 machines=2
+jobs=
+7 5 3 
+num=2 machines=3
+jobs=
+8 
+num=5 machines=4
+jobs=
+1 9 2 4 
+num=2 machines=5
+jobs=
+10 
+
+stages=2
+num=11 machines=1
+jobs=
+7 1 8 5 2 3 4 10 6 9 
+
+f[3]=424.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+10 8 
+num=3 machines=2
+jobs=
+1 2 
+num=4 machines=3
+jobs=
+7 9 4 
+num=4 machines=4
+jobs=
+6 5 3 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+1 10 8 6 3 9 7 2 5 4 
+
+f[4]=533.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+6 7 
+num=2 machines=2
+jobs=
+10 
+num=3 machines=3
+jobs=
+5 4 
+num=2 machines=4
+jobs=
+9 
+num=5 machines=5
+jobs=
+2 8 3 1 
+
+stages=2
+num=11 machines=1
+jobs=
+4 3 1 5 9 6 8 2 10 7 
+
+f[5]=637.000000
+initial
+stages=1
+num=6 machines=1
+jobs=
+8 3 1 6 7 
+num=2 machines=2
+jobs=
+9 
+num=4 machines=3
+jobs=
+5 10 4 
+num=1 machines=4
+jobs=
+
+num=2 machines=5
+jobs=
+2 
+
+stages=2
+num=11 machines=1
+jobs=
+5 7 6 8 1 9 4 2 3 10 
+
+f[6]=684.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+5 
+num=4 machines=2
+jobs=
+7 4 2 
+num=2 machines=3
+jobs=
+8 
+num=5 machines=4
+jobs=
+6 3 1 9 
+num=2 machines=5
+jobs=
+10 
+
+stages=2
+num=11 machines=1
+jobs=
+2 1 8 5 4 7 6 3 10 9 
+
+f[7]=558.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+6 
+num=4 machines=2
+jobs=
+9 4 3 
+num=3 machines=3
+jobs=
+8 2 
+num=3 machines=4
+jobs=
+10 1 
+num=3 machines=5
+jobs=
+7 5 
+
+stages=2
+num=11 machines=1
+jobs=
+10 1 8 3 5 4 6 9 7 2 
+
+f[8]=539.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+7 
+num=3 machines=2
+jobs=
+10 4 
+num=3 machines=3
+jobs=
+1 5 
+num=5 machines=4
+jobs=
+6 8 3 2 
+num=2 machines=5
+jobs=
+9 
+
+stages=2
+num=11 machines=1
+jobs=
+7 10 4 9 3 2 8 5 6 1 
+
+f[9]=464.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+2 1 8 
+num=3 machines=2
+jobs=
+5 4 
+num=1 machines=3
+jobs=
+
+num=3 machines=4
+jobs=
+9 7 
+num=4 machines=5
+jobs=
+6 10 3 
+
+stages=2
+num=11 machines=1
+jobs=
+1 5 3 4 10 6 2 8 7 9 
+
+f[10]=562.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+7 
+num=4 machines=2
+jobs=
+1 4 10 
+num=5 machines=3
+jobs=
+5 9 2 6 
+num=3 machines=4
+jobs=
+3 8 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+4 8 10 7 5 3 6 2 1 9 
+
+f[11]=607.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+10 
+num=2 machines=2
+jobs=
+6 
+num=5 machines=3
+jobs=
+1 2 4 9 
+num=1 machines=4
+jobs=
+
+num=5 machines=5
+jobs=
+3 5 8 7 
+
+stages=2
+num=11 machines=1
+jobs=
+10 5 9 3 4 1 2 8 7 6 
+
+f[12]=566.000000
+initial
+stages=1
+num=6 machines=1
+jobs=
+10 8 9 5 2 
+num=3 machines=2
+jobs=
+6 7 
+num=2 machines=3
+jobs=
+4 
+num=3 machines=4
+jobs=
+1 3 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+6 1 10 9 2 3 5 7 4 8 
+
+f[13]=557.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+6 
+num=3 machines=2
+jobs=
+2 10 
+num=5 machines=3
+jobs=
+9 7 1 4 
+num=4 machines=4
+jobs=
+3 5 8 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+7 6 5 8 10 2 3 9 4 1 
+
+f[14]=480.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=1 machines=2
+jobs=
+
+num=6 machines=3
+jobs=
+4 3 7 6 1 
+num=3 machines=4
+jobs=
+8 5 
+num=4 machines=5
+jobs=
+10 9 2 
+
+stages=2
+num=11 machines=1
+jobs=
+8 2 7 6 1 4 3 9 10 5 
+
+f[15]=567.000000
+initial
+stages=1
+num=5 machines=1
+jobs=
+4 10 2 3 
+num=3 machines=2
+jobs=
+6 9 
+num=2 machines=3
+jobs=
+1 
+num=2 machines=4
+jobs=
+8 
+num=3 machines=5
+jobs=
+5 7 
+
+stages=2
+num=11 machines=1
+jobs=
+1 10 8 9 3 4 7 6 5 2 
+
+f[3]=637.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+7 
+num=3 machines=2
+jobs=
+4 10 
+num=3 machines=3
+jobs=
+2 6 
+num=4 machines=4
+jobs=
+8 5 9 
+num=3 machines=5
+jobs=
+3 1 
+
+stages=2
+num=11 machines=1
+jobs=
+1 6 3 8 5 9 4 10 2 7 
+
+f[15]=558.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+1 7 
+num=3 machines=2
+jobs=
+2 10 
+num=2 machines=3
+jobs=
+5 
+num=3 machines=4
+jobs=
+3 9 
+num=4 machines=5
+jobs=
+4 8 6 
+
+stages=2
+num=11 machines=1
+jobs=
+1 6 5 10 2 9 3 7 4 8 
+
+f[2]=546.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+6 
+num=2 machines=2
+jobs=
+2 
+num=3 machines=3
+jobs=
+9 1 
+num=5 machines=4
+jobs=
+10 4 3 7 
+num=3 machines=5
+jobs=
+5 8 
+
+stages=2
+num=11 machines=1
+jobs=
+3 6 8 5 1 4 10 9 7 2 
+
+f[4]=659.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+9 5 
+num=3 machines=2
+jobs=
+8 4 
+num=2 machines=3
+jobs=
+10 
+num=4 machines=4
+jobs=
+3 6 1 
+num=3 machines=5
+jobs=
+7 2 
+
+stages=2
+num=11 machines=1
+jobs=
+3 8 2 5 10 6 7 4 9 1 
+
+f[5]=495.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+2 1 
+num=2 machines=2
+jobs=
+6 
+num=2 machines=3
+jobs=
+5 
+num=4 machines=4
+jobs=
+7 10 3 
+num=4 machines=5
+jobs=
+4 9 8 
+
+stages=2
+num=11 machines=1
+jobs=
+4 8 7 5 9 3 1 2 6 10 
+
+f[6]=546.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+1 4 7 
+num=3 machines=2
+jobs=
+5 3 
+num=5 machines=3
+jobs=
+9 6 10 2 
+num=1 machines=4
+jobs=
+
+num=2 machines=5
+jobs=
+8 
+
+stages=2
+num=11 machines=1
+jobs=
+5 1 7 3 6 9 2 4 10 8 
+
+f[14]=503.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+5 9 
+num=1 machines=2
+jobs=
+
+num=4 machines=3
+jobs=
+2 10 1 
+num=1 machines=4
+jobs=
+
+num=6 machines=5
+jobs=
+6 3 4 7 8 
+
+stages=2
+num=11 machines=1
+jobs=
+6 4 3 8 5 1 2 10 9 7 
+
+f[13]=572.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+1 
+num=2 machines=2
+jobs=
+3 
+num=4 machines=3
+jobs=
+6 7 10 
+num=4 machines=4
+jobs=
+8 4 5 
+num=3 machines=5
+jobs=
+9 2 
+
+stages=2
+num=11 machines=1
+jobs=
+4 2 9 1 5 10 7 3 8 6 
+
+f[1]=563.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+9 3 
+num=4 machines=2
+jobs=
+5 10 2 
+num=2 machines=3
+jobs=
+8 
+num=4 machines=4
+jobs=
+4 1 6 
+num=2 machines=5
+jobs=
+7 
+
+stages=2
+num=11 machines=1
+jobs=
+4 2 9 1 7 5 6 8 3 10 
+
+f[8]=569.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+10 
+num=1 machines=2
+jobs=
+
+num=6 machines=3
+jobs=
+2 9 7 6 4 
+num=2 machines=4
+jobs=
+8 
+num=4 machines=5
+jobs=
+5 1 3 
+
+stages=2
+num=11 machines=1
+jobs=
+7 3 1 6 9 8 4 2 10 5 
+
+f[9]=503.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+4 
+num=3 machines=2
+jobs=
+9 5 
+num=2 machines=3
+jobs=
+10 
+num=6 machines=4
+jobs=
+6 8 3 1 2 
+num=2 machines=5
+jobs=
+7 
+
+stages=2
+num=11 machines=1
+jobs=
+9 3 6 8 10 2 1 5 4 7 
+
+f[10]=583.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+9 1 7 
+num=2 machines=2
+jobs=
+10 
+num=4 machines=3
+jobs=
+3 8 5 
+num=4 machines=4
+jobs=
+4 6 2 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+6 7 10 3 8 9 2 5 4 1 
+
+f[11]=489.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+2 1 7 
+num=2 machines=2
+jobs=
+6 
+num=4 machines=3
+jobs=
+5 8 3 
+num=4 machines=4
+jobs=
+4 9 10 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+10 6 3 9 7 2 8 1 4 5 
+
+f[12]=568.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+2 3 
+num=2 machines=2
+jobs=
+9 
+num=4 machines=3
+jobs=
+4 1 10 
+num=3 machines=4
+jobs=
+6 5 
+num=3 machines=5
+jobs=
+7 8 
+
+stages=2
+num=11 machines=1
+jobs=
+6 7 1 2 9 3 5 4 10 8 
+
+f[7]=422.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=2 machines=2
+jobs=
+7 
+num=4 machines=3
+jobs=
+10 1 4 
+num=4 machines=4
+jobs=
+2 9 3 
+num=4 machines=5
+jobs=
+8 5 6 
+
+stages=2
+num=11 machines=1
+jobs=
+3 8 4 10 2 1 5 9 6 7 
+
+f[3]=565.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+5 9 
+num=2 machines=2
+jobs=
+2 
+num=1 machines=3
+jobs=
+
+num=4 machines=4
+jobs=
+10 3 7 
+num=5 machines=5
+jobs=
+8 6 4 1 
+
+stages=2
+num=11 machines=1
+jobs=
+3 1 8 2 4 9 6 5 7 10 
+
+f[15]=592.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+1 
+num=3 machines=2
+jobs=
+4 2 
+num=2 machines=3
+jobs=
+7 
+num=4 machines=4
+jobs=
+5 8 9 
+num=4 machines=5
+jobs=
+6 10 3 
+
+stages=2
+num=11 machines=1
+jobs=
+8 6 7 5 1 9 2 3 10 4 
+
+f[14]=520.000000
+initial
+stages=1
+num=5 machines=1
+jobs=
+9 5 2 4 
+num=2 machines=2
+jobs=
+6 
+num=2 machines=3
+jobs=
+10 
+num=3 machines=4
+jobs=
+8 1 
+num=3 machines=5
+jobs=
+3 7 
+
+stages=2
+num=11 machines=1
+jobs=
+5 6 1 7 4 3 10 2 9 8 
+
+f[1]=504.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+7 6 
+num=4 machines=2
+jobs=
+8 10 3 
+num=5 machines=3
+jobs=
+5 1 9 4 
+num=1 machines=4
+jobs=
+
+num=2 machines=5
+jobs=
+2 
+
+stages=2
+num=11 machines=1
+jobs=
+7 10 3 2 1 5 9 8 4 6 
+
+f[2]=586.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+4 
+num=3 machines=2
+jobs=
+10 1 
+num=4 machines=3
+jobs=
+2 3 8 
+num=3 machines=4
+jobs=
+7 5 
+num=3 machines=5
+jobs=
+6 9 
+
+stages=2
+num=11 machines=1
+jobs=
+4 8 2 10 6 7 1 3 5 9 
+
+f[10]=637.000000
+initial
+stages=1
+num=4 machines=1
+jobs=
+3 4 2 
+num=2 machines=2
+jobs=
+7 
+num=2 machines=3
+jobs=
+9 
+num=3 machines=4
+jobs=
+10 6 
+num=4 machines=5
+jobs=
+1 5 8 
+
+stages=2
+num=11 machines=1
+jobs=
+3 1 8 7 10 5 2 9 6 4 
+
+f[7]=495.000000
+initial
+stages=1
+num=2 machines=1
+jobs=
+10 
+num=6 machines=2
+jobs=
+2 7 5 8 6 
+num=2 machines=3
+jobs=
+4 
+num=3 machines=4
+jobs=
+1 3 
+num=2 machines=5
+jobs=
+9 
+
+stages=2
+num=11 machines=1
+jobs=
+3 1 9 5 8 10 2 7 6 4 
+
+f[5]=558.000000
+initial
+stages=1
+num=5 machines=1
+jobs=
+1 6 7 10 
+num=3 machines=2
+jobs=
+3 8 
+num=4 machines=3
+jobs=
+2 5 9 
+num=2 machines=4
+jobs=
+4 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+7 3 5 9 1 2 8 4 10 6 
+
+f[6]=508.000000
+initial
+stages=1
+num=3 machines=1
+jobs=
+4 1 
+num=4 machines=2
+jobs=
+8 3 7 
+num=3 machines=3
+jobs=
+10 9 
+num=2 machines=4
+jobs=
+5 
+num=3 machines=5
+jobs=
+2 6 
+
+stages=2
+num=11 machines=1
+jobs=
+2 8 1 6 9 10 7 3 4 5 
+
+f[11]=468.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=2 machines=2
+jobs=
+2 
+num=6 machines=3
+jobs=
+6 3 5 4 7 
+num=2 machines=4
+jobs=
+1 
+num=4 machines=5
+jobs=
+10 8 9 
+
+stages=2
+num=11 machines=1
+jobs=
+1 9 10 2 6 4 5 8 3 7 
+
+f[9]=558.000000
+initial
+stages=1
+num=1 machines=1
+jobs=
+
+num=5 machines=2
+jobs=
+5 8 3 4 
+num=2 machines=3
+jobs=
+2 
+num=6 machines=4
+jobs=
+10 9 7 1 6 
+num=1 machines=5
+jobs=
+
+
+stages=2
+num=11 machines=1
+jobs=
+4 5 9 3 10 6 2 7 8 1 
+
+f[13]=681.000000
+3. run: 422.000000 
+Means of 3 runs: 410.000000
+Mins  of 3 runs: 404.000000
+PD of this time: 0.000000
